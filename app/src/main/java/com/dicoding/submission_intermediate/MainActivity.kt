@@ -2,7 +2,6 @@ package com.dicoding.submission_intermediate
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.dicoding.submission_intermediate.component.Button
 import com.dicoding.submission_intermediate.component.EditText
 
 class MainActivity : AppCompatActivity() {
